@@ -1,3 +1,4 @@
+" Fixes weird behaviour with some keys which was related to backwards compatibility with old vi
 set nocompatible
 
 " For plugins
@@ -37,5 +38,3 @@ set confirm
 
 " Removes annoying error sound
 set visualbell
-
-
